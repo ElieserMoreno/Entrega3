@@ -22,7 +22,7 @@ namespace _3ra_entrega.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("ShoppingAPI_Jueves.DAL.Entities.Country", b =>
+            modelBuilder.Entity("_3ra_entrega.DAL.Entities.Country", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
