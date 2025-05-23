@@ -3,7 +3,7 @@ using _3ra_entrega.DAL;
 using _3ra_entrega.DAL.Entities;
 using _3ra_entrega.Domain.interfaces;
 
-namespace ShoppingAPI_Jueves.Domain.services
+namespace _3ra_entrega.Domain.services
 {
     public class CountryService : ICountryService
     {
