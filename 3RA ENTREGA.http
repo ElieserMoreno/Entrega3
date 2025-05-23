@@ -1,4 +1,4 @@
-@_3ra_entrega_HostAddress = http://localhost:5235
+@_3ra_entrega_HostAddress = http://localhost:8000
 
 GET {{_3ra_entrega_HostAddress}}/weatherforecast/
 Accept: application/json
