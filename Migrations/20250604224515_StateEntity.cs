@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace ShoppingAPI_TallerAPI.Migrations
+namespace _3ra_entrega.Migrations
 {
     public partial class StateEntity : Migration
     {

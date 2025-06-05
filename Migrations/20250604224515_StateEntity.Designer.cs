@@ -9,7 +9,7 @@ using ShoppingAPI_TallerAPI.DAL;
 
 #nullable disable
 
-namespace ShoppingAPI_TallerAPI.Migrations
+namespace _3ra_entrega.Migrations
 {
     [DbContext(typeof(DataBaseContext))]
     [Migration("20250604224515_StateEntity")]
